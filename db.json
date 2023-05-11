@@ -6,7 +6,7 @@
   ],
   "resto":
   [
-    { "nama":"Mangkokku Rice Bowl", "alamat":"JI. Raya Panjang Jiwo Permai 1 No. B-5, Tenggilis Mejoyo, Surabaya", "logo":"https://static.wixstatic.com/media/bd9439_f6c8487f41c340c5bc18062a067636b6~mv2.png/v1/fit/w_2500,h_1330,al_c/bd9439_f6c8487f41c340c5bc18062a067636b6~mv2.png"},
+    { "nama":"Mangkokku ", "alamat":"JI. Raya Panjang Jiwo Permai 1 No. B-5, Tenggilis Mejoyo, Surabaya", "logo":"https://static.wixstatic.com/media/bd9439_f6c8487f41c340c5bc18062a067636b6~mv2.png/v1/fit/w_2500,h_1330,al_c/bd9439_f6c8487f41c340c5bc18062a067636b6~mv2.png"},
     { "nama":"Solaria", "alamat":"Transmart Rungkut, JI. Kalirungkut Raya No. 25, Rungkut, Surabaya", "logo":"https://asset-a.grid.id/crop/0x0:0x0/x/photo/2023/02/02/whatsapp-image-2023-02-02-at-10-20230202110003.jpeg"}
   ],
   "review":[
@@ -17,13 +17,13 @@
     { "username":"fransisca", "resto":"Solaria", "review":"solaria baik banget. terima kasih kejunya berkenan di ganti salad karena saya gak boleh makan keju" }
   ],
   "Mangkokku":[
-    {"nama":"Beef With Sambal Korek Bawang", "harga":"59900"},
-    {"nama":"Fried Chicken Sambal Ijo", "harga":"37900"},
-    {"nama":"Mangkokku Beef Onsen", "harga":"46900"}
+    {"nama":"Beef With Sambal Korek Bawang", "harga":"59900", "foto":"https://img.foodspot.co.id/restaurant//mangkokku/2023/feb/beef-sambal-korek-bawang.jpg"},
+    {"nama":"Fried Chicken Sambal Ijo", "harga":"37900", "foto":"https://img.foodspot.co.id/restaurant//mangkokku/fried-chicken-sambal-ijo.jpg"},
+    {"nama":"Mangkokku Beef Onsen", "harga":"46900", "foto":"https://img.foodspot.co.id/restaurant//mangkokku/beef-onion-onsen-egg-kuning.jpg"}
   ],
    "Solaria":[
-    { "nama":"express bowl Ayam Rica", "harga":"26000"},
-    { "nama":"express bowl Ayam Asam Manis", "harga": "26000"},
-    { "nama":"express bowl Ayam Mayo", "harga":"26000"}
+    { "nama":"express bowl Ayam Rica", "harga":"26000", "foto":"https://www.kooliner.com/blog/wp-content/uploads/2021/06/Express-Bowl-Ayam-Rica-Solaria.png"},
+    { "nama":"express bowl Ayam Asam Manis", "harga": "26000", "foto":"https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/5e277c13-f130-4150-8963-8832157a94c4_menu-item-image_1627367436601.jpg"},
+    { "nama":"express bowl Ayam Mayo", "harga":"26000", "foto":"https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/a5fdf6ab-fa53-43d0-ba7d-a412e5671279_menu-item-image_1627287105616.jpg"}
   ]
 }
