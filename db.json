@@ -2,7 +2,7 @@
   "user":[
     { "username":"benhardthiono", "password":"benhard21" },
     { "username":"fransisca", "password":"angel22" },
-    { "username":"C", "password":"icha25" },
+    { "username":"C", "password":"icha25" }
   ],
   "resto":
   [
@@ -14,16 +14,16 @@
     { "username":"fransisca", "resto":"Mangkokku Rice Bowl", "review":"sering beli disini, awalnya coba bubur karena lagi sakit, ternyata menu selain bubur juga enak banget. thank you" },
     { "username":"V", "resto":"Mangkokku Rice Bowl", "review":"rasa gak pernah mengecewakan. selalu repeat order. tapi dibalik itu semua lebih suka sama promonya" },
     { "username":"benhardthiono", "resto":"Solaria", "review":"rasa makanannya enak, harga sesuai kualitas. macam lauk banyak sesuai deskripsi dan gambar" },
-    { "username":"fransisca", "resto":"Solaria", "review":"solaria baik banget. terima kasih kejunya berkenan di ganti salad karena saya gak boleh makan keju" },
+    { "username":"fransisca", "resto":"Solaria", "review":"solaria baik banget. terima kasih kejunya berkenan di ganti salad karena saya gak boleh makan keju" }
   ],
   "Mangkokku":[
     {"nama":"Beef With Sambal Korek Bawang", "harga":"59900"},
     {"nama":"Fried Chicken Sambal Ijo", "harga":"37900"},
-    {"nama":"Mangkokku Beef Onsen", "harga":"46900"},
+    {"nama":"Mangkokku Beef Onsen", "harga":"46900"}
   ],
    "Solaria":[
     { "nama":"express bowl Ayam Rica", "harga":"26000"},
     { "nama":"express bowl Ayam Asam Manis", "harga": "26000"},
-    { "nama":"express bowl Ayam Mayo", "harga":"26000"},
-  ],
+    { "nama":"express bowl Ayam Mayo", "harga":"26000"}
+  ]
 }
